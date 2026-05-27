@@ -1,0 +1,10 @@
+$schema: https://azuremlschemas.azureedge.net/latest/MLTable.schema.json
+
+paths:
+  - file: ./ER_Triage_Dataset.csv
+
+transformations:
+  - read_delimited:
+      delimiter: ','
+      encoding: ascii
+      header: all_files_same_headers
