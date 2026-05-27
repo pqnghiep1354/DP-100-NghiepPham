@@ -1,1 +1,501 @@
-
+Age,Arrival_Mode,Heart_Rate,Pain_Scale,Primary_Symptom,Routing_Class
+52,Walk-in,127,6,Fever,1
+93,Walk-in,61,8,Orthopedic,0
+15,Walk-in,95,5,Orthopedic,1
+72,Walk-in,85,7,Orthopedic,1
+61,Walk-in,97,2,Fever,1
+21,Walk-in,63,7,Orthopedic,1
+83,Walk-in,96,3,Fever,1
+87,Walk-in,52,5,Abdominal Pain,1
+75,Walk-in,74,4,Laceration,1
+75,Walk-in,87,7,Orthopedic,1
+88,Walk-in,74,8,Orthopedic,1
+24,Walk-in,117,8,Fever,0
+3,Walk-in,99,8,Orthopedic,1
+22,Walk-in,118,9,Fever,0
+53,Walk-in,82,5,Laceration,1
+2,Walk-in,77,9,Chest Pain,0
+88,Walk-in,71,6,Laceration,1
+30,Walk-in,92,5,Chest Pain,1
+38,Ambulance,69,7,Laceration,1
+2,Walk-in,117,8,Fever,0
+64,Ambulance,128,6,Chest Pain,0
+60,Ambulance,84,4,Fever,0
+21,Ambulance,128,10,Chest Pain,0
+33,Ambulance,107,2,Fever,1
+76,Ambulance,105,7,Chest Pain,0
+58,Ambulance,91,9,Chest Pain,0
+22,Walk-in,69,3,Abdominal Pain,1
+89,Walk-in,91,2,Fever,1
+49,Ambulance,122,7,Chest Pain,0
+91,Walk-in,98,10,Orthopedic,1
+59,Walk-in,63,2,Laceration,1
+42,Walk-in,73,1,Abdominal Pain,1
+92,Ambulance,85,9,Orthopedic,0
+60,Walk-in,76,5,Abdominal Pain,1
+80,Walk-in,56,4,Abdominal Pain,1
+15,Walk-in,72,6,Abdominal Pain,1
+62,Ambulance,103,6,Abdominal Pain,0
+62,Walk-in,92,3,Fever,1
+47,Walk-in,78,2,Laceration,1
+62,Ambulance,92,8,Chest Pain,0
+51,Ambulance,87,7,Abdominal Pain,0
+55,Walk-in,81,5,Orthopedic,1
+64,Walk-in,71,7,Abdominal Pain,1
+3,Walk-in,64,6,Laceration,1
+51,Walk-in,123,5,Fever,1
+7,Walk-in,93,2,Fever,1
+21,Walk-in,86,5,Laceration,1
+73,Ambulance,82,8,Chest Pain,0
+39,Walk-in,88,6,Abdominal Pain,1
+18,Ambulance,91,7,Abdominal Pain,1
+4,Ambulance,112,7,Chest Pain,0
+89,Ambulance,90,9,Chest Pain,0
+60,Ambulance,99,2,Laceration,1
+14,Walk-in,107,4,Laceration,1
+9,Walk-in,76,5,Orthopedic,1
+90,Walk-in,74,8,Orthopedic,1
+53,Ambulance,104,5,Chest Pain,0
+2,Walk-in,74,8,Orthopedic,0
+84,Walk-in,105,2,Fever,1
+92,Walk-in,73,5,Abdominal Pain,1
+60,Walk-in,100,3,Abdominal Pain,1
+71,Walk-in,89,6,Laceration,1
+44,Ambulance,74,5,Laceration,1
+8,Walk-in,69,9,Fever,1
+47,Ambulance,61,4,Abdominal Pain,1
+35,Walk-in,86,7,Laceration,1
+78,Walk-in,54,6,Orthopedic,1
+81,Walk-in,102,6,Fever,1
+36,Ambulance,67,4,Laceration,1
+50,Walk-in,81,8,Orthopedic,1
+4,Walk-in,80,8,Orthopedic,1
+2,Walk-in,81,5,Orthopedic,1
+6,Walk-in,75,4,Laceration,1
+54,Walk-in,108,2,Fever,1
+4,Walk-in,71,9,Abdominal Pain,0
+54,Walk-in,116,5,Fever,1
+93,Walk-in,89,6,Orthopedic,1
+63,Walk-in,100,6,Fever,1
+18,Walk-in,79,7,Orthopedic,1
+90,Walk-in,82,8,Orthopedic,1
+44,Ambulance,82,8,Orthopedic,0
+34,Walk-in,82,5,Abdominal Pain,1
+74,Walk-in,75,5,Laceration,1
+62,Ambulance,102,6,Chest Pain,0
+14,Walk-in,87,10,Orthopedic,1
+48,Walk-in,81,2,Laceration,1
+15,Walk-in,86,5,Abdominal Pain,1
+72,Walk-in,91,4,Laceration,1
+78,Walk-in,57,4,Abdominal Pain,1
+87,Walk-in,91,6,Orthopedic,1
+62,Walk-in,84,5,Orthopedic,1
+40,Walk-in,66,4,Laceration,1
+85,Walk-in,89,6,Orthopedic,1
+80,Walk-in,75,9,Abdominal Pain,0
+82,Walk-in,90,10,Chest Pain,0
+53,Walk-in,91,1,Fever,1
+24,Walk-in,83,5,Abdominal Pain,1
+26,Ambulance,85,8,Chest Pain,0
+89,Walk-in,108,3,Fever,1
+60,Walk-in,78,2,Laceration,1
+41,Ambulance,91,8,Chest Pain,0
+29,Walk-in,89,2,Abdominal Pain,1
+15,Ambulance,92,6,Chest Pain,0
+45,Walk-in,91,3,Abdominal Pain,1
+65,Walk-in,91,8,Abdominal Pain,0
+89,Ambulance,95,8,Fever,0
+71,Walk-in,110,7,Fever,1
+9,Walk-in,62,10,Orthopedic,1
+88,Walk-in,109,9,Fever,1
+1,Walk-in,142,4,Fever,1
+8,Walk-in,90,5,Laceration,1
+88,Walk-in,54,1,Abdominal Pain,1
+63,Ambulance,92,8,Abdominal Pain,0
+11,Walk-in,106,4,Laceration,1
+81,Walk-in,76,4,Abdominal Pain,1
+8,Ambulance,79,9,Abdominal Pain,0
+35,Walk-in,65,10,Orthopedic,1
+35,Ambulance,83,9,Orthopedic,0
+33,Walk-in,95,3,Abdominal Pain,1
+5,Ambulance,101,5,Chest Pain,0
+41,Walk-in,117,6,Laceration,1
+28,Walk-in,80,9,Orthopedic,1
+7,Walk-in,60,10,Orthopedic,1
+73,Ambulance,97,8,Chest Pain,0
+72,Walk-in,74,4,Fever,1
+12,Ambulance,73,5,Laceration,1
+34,Walk-in,99,2,Laceration,1
+33,Walk-in,83,2,Laceration,1
+48,Ambulance,105,7,Chest Pain,0
+23,Walk-in,101,8,Orthopedic,1
+62,Walk-in,102,2,Fever,1
+88,Ambulance,124,7,Chest Pain,0
+37,Walk-in,119,1,Fever,1
+44,Walk-in,84,10,Orthopedic,1
+86,Walk-in,65,7,Orthopedic,1
+91,Walk-in,74,4,Laceration,1
+35,Walk-in,76,7,Chest Pain,0
+65,Walk-in,78,4,Laceration,1
+47,Ambulance,105,6,Chest Pain,0
+78,Walk-in,66,7,Laceration,1
+3,Walk-in,128,6,Fever,1
+1,Ambulance,99,10,Chest Pain,0
+5,Walk-in,80,5,Laceration,1
+90,Ambulance,101,9,Chest Pain,0
+14,Ambulance,93,10,Chest Pain,0
+27,Ambulance,100,7,Chest Pain,0
+9,Walk-in,71,3,Abdominal Pain,1
+79,Walk-in,98,7,Laceration,1
+15,Ambulance,92,10,Chest Pain,0
+90,Walk-in,80,4,Abdominal Pain,1
+42,Walk-in,113,1,Fever,1
+77,Ambulance,103,5,Chest Pain,0
+51,Walk-in,73,7,Laceration,1
+63,Walk-in,69,3,Laceration,1
+52,Ambulance,73,10,Orthopedic,0
+4,Ambulance,86,7,Abdominal Pain,0
+94,Walk-in,78,6,Abdominal Pain,1
+23,Walk-in,89,5,Orthopedic,1
+15,Walk-in,85,4,Laceration,1
+43,Walk-in,52,10,Orthopedic,0
+29,Walk-in,82,3,Abdominal Pain,1
+36,Walk-in,107,4,Laceration,1
+13,Ambulance,95,3,Abdominal Pain,0
+32,Walk-in,124,9,Fever,0
+71,Walk-in,67,4,Abdominal Pain,1
+59,Walk-in,85,9,Orthopedic,1
+86,Walk-in,110,10,Chest Pain,0
+28,Walk-in,96,9,Fever,1
+66,Walk-in,104,7,Chest Pain,0
+42,Walk-in,98,8,Orthopedic,1
+45,Walk-in,69,7,Abdominal Pain,1
+62,Walk-in,67,2,Laceration,1
+57,Walk-in,88,5,Laceration,1
+6,Walk-in,85,4,Laceration,1
+28,Walk-in,92,5,Laceration,1
+28,Walk-in,86,7,Laceration,1
+44,Walk-in,96,8,Fever,1
+84,Walk-in,85,6,Abdominal Pain,1
+30,Walk-in,93,5,Fever,1
+62,Walk-in,76,9,Orthopedic,1
+75,Walk-in,86,4,Abdominal Pain,1
+92,Ambulance,93,8,Fever,0
+89,Walk-in,147,1,Fever,0
+62,Ambulance,77,10,Chest Pain,0
+1,Walk-in,73,2,Laceration,1
+27,Walk-in,68,2,Laceration,1
+62,Ambulance,100,8,Chest Pain,0
+77,Ambulance,99,5,Chest Pain,0
+3,Walk-in,64,7,Laceration,1
+70,Walk-in,89,7,Orthopedic,1
+72,Walk-in,98,5,Fever,1
+27,Walk-in,81,4,Laceration,1
+9,Ambulance,87,5,Chest Pain,0
+62,Walk-in,71,4,Laceration,1
+37,Walk-in,100,9,Abdominal Pain,1
+51,Ambulance,91,4,Abdominal Pain,0
+44,Walk-in,57,7,Orthopedic,1
+24,Walk-in,83,8,Chest Pain,0
+79,Walk-in,92,8,Orthopedic,1
+59,Ambulance,73,6,Orthopedic,1
+32,Walk-in,60,2,Laceration,1
+88,Walk-in,107,6,Fever,1
+52,Walk-in,82,9,Abdominal Pain,0
+62,Walk-in,83,8,Abdominal Pain,0
+58,Walk-in,89,7,Abdominal Pain,1
+52,Walk-in,85,1,Fever,1
+12,Walk-in,80,3,Fever,1
+39,Walk-in,98,7,Orthopedic,1
+2,Walk-in,62,10,Orthopedic,1
+3,Walk-in,94,2,Fever,1
+56,Walk-in,67,9,Orthopedic,1
+81,Walk-in,136,5,Fever,1
+59,Walk-in,123,5,Fever,1
+2,Walk-in,91,4,Abdominal Pain,1
+2,Walk-in,82,6,Laceration,1
+92,Walk-in,97,3,Fever,1
+54,Ambulance,87,1,Abdominal Pain,0
+87,Walk-in,61,5,Abdominal Pain,1
+1,Walk-in,66,9,Orthopedic,1
+19,Walk-in,117,5,Chest Pain,0
+2,Ambulance,63,9,Abdominal Pain,0
+53,Walk-in,115,4,Fever,1
+44,Walk-in,107,3,Fever,1
+90,Walk-in,73,1,Abdominal Pain,0
+32,Walk-in,56,6,Orthopedic,1
+70,Ambulance,102,8,Fever,0
+32,Walk-in,70,2,Laceration,1
+68,Walk-in,81,6,Laceration,1
+55,Walk-in,102,7,Fever,1
+75,Ambulance,103,8,Chest Pain,0
+56,Ambulance,71,7,Laceration,1
+17,Walk-in,86,9,Abdominal Pain,1
+38,Ambulance,82,7,Chest Pain,0
+24,Ambulance,58,4,Abdominal Pain,1
+69,Walk-in,51,6,Abdominal Pain,1
+70,Walk-in,74,8,Abdominal Pain,1
+86,Walk-in,70,5,Abdominal Pain,1
+11,Walk-in,127,3,Fever,1
+16,Walk-in,72,7,Laceration,1
+73,Walk-in,111,4,Fever,1
+59,Walk-in,89,9,Abdominal Pain,1
+70,Walk-in,71,9,Orthopedic,1
+80,Walk-in,83,3,Abdominal Pain,1
+93,Walk-in,92,8,Orthopedic,1
+3,Ambulance,104,7,Fever,0
+20,Walk-in,80,5,Laceration,1
+59,Walk-in,71,8,Orthopedic,0
+36,Ambulance,79,8,Chest Pain,0
+19,Walk-in,88,10,Chest Pain,0
+90,Walk-in,65,5,Laceration,1
+67,Walk-in,80,3,Abdominal Pain,1
+19,Walk-in,60,6,Abdominal Pain,1
+20,Walk-in,87,8,Chest Pain,0
+71,Walk-in,89,6,Orthopedic,1
+52,Walk-in,85,3,Laceration,1
+33,Ambulance,85,7,Chest Pain,0
+40,Ambulance,114,5,Chest Pain,0
+39,Walk-in,102,2,Laceration,1
+82,Walk-in,80,8,Abdominal Pain,1
+1,Walk-in,88,7,Fever,1
+11,Walk-in,90,6,Abdominal Pain,1
+92,Ambulance,52,7,Laceration,0
+57,Ambulance,123,10,Chest Pain,0
+89,Walk-in,93,2,Laceration,1
+50,Walk-in,101,6,Orthopedic,1
+23,Walk-in,83,2,Laceration,1
+31,Walk-in,75,6,Abdominal Pain,1
+94,Walk-in,74,6,Orthopedic,1
+42,Ambulance,73,8,Abdominal Pain,0
+7,Walk-in,91,7,Orthopedic,1
+16,Walk-in,88,5,Laceration,1
+90,Ambulance,114,1,Fever,0
+60,Walk-in,71,9,Abdominal Pain,1
+2,Walk-in,144,1,Fever,1
+1,Walk-in,90,4,Laceration,1
+48,Walk-in,60,7,Laceration,1
+12,Walk-in,73,4,Laceration,1
+69,Walk-in,130,4,Fever,1
+37,Walk-in,70,5,Orthopedic,1
+32,Ambulance,119,6,Fever,0
+9,Walk-in,91,2,Laceration,1
+19,Ambulance,40,10,Orthopedic,0
+48,Ambulance,99,5,Chest Pain,0
+80,Walk-in,97,10,Chest Pain,0
+3,Ambulance,75,4,Laceration,1
+20,Walk-in,98,4,Fever,1
+24,Ambulance,87,5,Laceration,1
+54,Walk-in,81,1,Abdominal Pain,1
+33,Walk-in,75,6,Orthopedic,1
+24,Walk-in,87,6,Laceration,1
+75,Ambulance,80,5,Abdominal Pain,0
+72,Walk-in,77,2,Laceration,1
+36,Ambulance,91,10,Chest Pain,0
+38,Ambulance,61,6,Abdominal Pain,1
+84,Walk-in,77,10,Chest Pain,0
+89,Walk-in,107,9,Fever,1
+25,Walk-in,79,9,Abdominal Pain,1
+93,Walk-in,62,8,Abdominal Pain,0
+18,Walk-in,126,5,Fever,1
+82,Ambulance,96,1,Abdominal Pain,0
+66,Walk-in,72,9,Abdominal Pain,1
+54,Walk-in,59,1,Abdominal Pain,1
+35,Walk-in,87,9,Chest Pain,0
+80,Ambulance,100,7,Chest Pain,0
+61,Ambulance,86,7,Orthopedic,1
+41,Walk-in,99,7,Fever,1
+33,Ambulance,98,2,Laceration,1
+68,Walk-in,96,7,Abdominal Pain,1
+33,Ambulance,82,9,Chest Pain,0
+14,Walk-in,71,7,Orthopedic,1
+21,Ambulance,72,7,Laceration,1
+48,Walk-in,73,4,Laceration,1
+20,Ambulance,111,7,Chest Pain,0
+8,Walk-in,85,1,Abdominal Pain,1
+7,Walk-in,90,8,Orthopedic,1
+67,Walk-in,88,4,Laceration,1
+17,Walk-in,100,8,Orthopedic,1
+33,Walk-in,67,6,Laceration,1
+48,Walk-in,84,9,Orthopedic,1
+76,Walk-in,53,6,Laceration,1
+59,Walk-in,64,5,Laceration,1
+86,Walk-in,102,1,Fever,1
+22,Walk-in,85,9,Orthopedic,1
+30,Walk-in,78,6,Orthopedic,1
+38,Walk-in,73,7,Abdominal Pain,1
+51,Walk-in,75,8,Orthopedic,1
+54,Walk-in,96,3,Laceration,1
+8,Walk-in,75,9,Orthopedic,1
+27,Walk-in,100,8,Abdominal Pain,1
+27,Walk-in,110,9,Fever,1
+21,Walk-in,85,7,Orthopedic,1
+30,Walk-in,101,7,Fever,1
+28,Walk-in,91,7,Abdominal Pain,1
+64,Walk-in,74,1,Abdominal Pain,1
+69,Ambulance,65,8,Orthopedic,0
+61,Walk-in,86,3,Laceration,1
+48,Walk-in,63,6,Orthopedic,1
+19,Walk-in,101,2,Fever,1
+4,Walk-in,79,5,Laceration,1
+35,Walk-in,137,1,Fever,1
+64,Walk-in,71,4,Abdominal Pain,1
+49,Ambulance,90,2,Fever,1
+17,Ambulance,108,5,Fever,0
+44,Walk-in,65,4,Laceration,1
+92,Walk-in,85,8,Abdominal Pain,1
+30,Walk-in,94,8,Orthopedic,1
+93,Ambulance,99,5,Chest Pain,0
+46,Walk-in,92,1,Abdominal Pain,1
+6,Walk-in,98,8,Chest Pain,0
+37,Walk-in,71,3,Abdominal Pain,1
+24,Walk-in,77,9,Abdominal Pain,1
+93,Walk-in,75,7,Abdominal Pain,1
+46,Walk-in,78,3,Laceration,1
+53,Walk-in,97,9,Fever,1
+60,Walk-in,87,3,Laceration,1
+63,Walk-in,86,3,Laceration,1
+85,Ambulance,50,4,Laceration,0
+32,Walk-in,78,4,Laceration,1
+87,Ambulance,61,2,Abdominal Pain,0
+33,Walk-in,91,3,Fever,1
+67,Walk-in,102,6,Fever,1
+18,Walk-in,91,2,Laceration,1
+25,Walk-in,79,5,Orthopedic,1
+54,Walk-in,118,7,Fever,1
+58,Walk-in,89,3,Abdominal Pain,1
+67,Walk-in,94,8,Orthopedic,1
+46,Ambulance,78,10,Orthopedic,0
+24,Ambulance,81,4,Laceration,1
+32,Walk-in,94,9,Chest Pain,0
+47,Walk-in,73,6,Orthopedic,1
+86,Ambulance,86,6,Fever,0
+23,Ambulance,52,4,Laceration,0
+66,Ambulance,103,8,Fever,0
+27,Walk-in,58,6,Orthopedic,1
+2,Walk-in,125,1,Fever,1
+90,Walk-in,121,9,Fever,0
+17,Walk-in,78,10,Orthopedic,1
+33,Walk-in,71,5,Laceration,1
+9,Walk-in,80,4,Laceration,1
+43,Walk-in,85,1,Fever,1
+48,Ambulance,82,9,Orthopedic,0
+39,Ambulance,101,6,Chest Pain,0
+93,Walk-in,69,5,Abdominal Pain,1
+42,Walk-in,85,5,Fever,1
+26,Walk-in,91,1,Abdominal Pain,1
+50,Walk-in,109,9,Fever,1
+25,Walk-in,70,5,Orthopedic,1
+24,Walk-in,105,6,Fever,1
+13,Walk-in,67,5,Abdominal Pain,1
+60,Walk-in,79,6,Abdominal Pain,1
+7,Walk-in,89,2,Abdominal Pain,1
+57,Walk-in,107,8,Chest Pain,0
+36,Ambulance,124,7,Chest Pain,0
+45,Walk-in,85,7,Abdominal Pain,1
+20,Ambulance,82,2,Laceration,1
+65,Ambulance,69,6,Laceration,1
+8,Walk-in,77,6,Abdominal Pain,1
+16,Walk-in,70,2,Abdominal Pain,1
+14,Walk-in,75,7,Chest Pain,1
+76,Walk-in,129,3,Fever,1
+87,Walk-in,102,9,Fever,0
+15,Walk-in,70,4,Laceration,1
+92,Walk-in,82,6,Orthopedic,1
+66,Walk-in,86,9,Abdominal Pain,0
+32,Walk-in,98,6,Fever,1
+87,Walk-in,79,4,Abdominal Pain,1
+63,Walk-in,88,8,Orthopedic,1
+86,Walk-in,95,1,Fever,1
+51,Walk-in,107,8,Fever,1
+25,Ambulance,77,7,Fever,0
+58,Walk-in,65,3,Laceration,1
+63,Walk-in,87,5,Laceration,1
+62,Walk-in,97,5,Fever,1
+22,Walk-in,82,7,Abdominal Pain,1
+58,Ambulance,109,4,Fever,1
+58,Walk-in,75,6,Laceration,1
+86,Walk-in,70,8,Abdominal Pain,0
+49,Ambulance,106,5,Chest Pain,0
+52,Ambulance,100,1,Abdominal Pain,0
+42,Ambulance,118,4,Fever,0
+70,Walk-in,83,3,Abdominal Pain,1
+15,Walk-in,71,2,Abdominal Pain,1
+54,Walk-in,65,3,Abdominal Pain,1
+60,Walk-in,79,1,Abdominal Pain,1
+8,Walk-in,102,1,Fever,1
+53,Walk-in,58,7,Laceration,1
+60,Walk-in,89,5,Abdominal Pain,1
+5,Walk-in,90,8,Abdominal Pain,1
+68,Walk-in,87,2,Fever,1
+6,Walk-in,82,4,Abdominal Pain,1
+94,Ambulance,92,8,Orthopedic,0
+47,Walk-in,82,10,Orthopedic,1
+55,Ambulance,88,5,Chest Pain,0
+40,Ambulance,77,5,Laceration,1
+52,Walk-in,95,1,Abdominal Pain,1
+16,Ambulance,111,9,Chest Pain,0
+13,Walk-in,122,2,Fever,1
+30,Walk-in,84,9,Orthopedic,1
+19,Ambulance,69,7,Laceration,0
+17,Walk-in,72,4,Laceration,1
+63,Ambulance,108,7,Chest Pain,0
+19,Walk-in,127,4,Fever,1
+92,Walk-in,93,6,Abdominal Pain,0
+58,Walk-in,69,4,Laceration,1
+55,Ambulance,85,7,Orthopedic,1
+90,Walk-in,116,3,Fever,1
+90,Ambulance,68,3,Laceration,0
+62,Walk-in,132,6,Fever,1
+23,Walk-in,128,5,Fever,1
+9,Ambulance,140,10,Chest Pain,0
+12,Walk-in,82,3,Laceration,1
+1,Ambulance,82,6,Laceration,0
+58,Ambulance,89,3,Laceration,1
+1,Walk-in,89,9,Orthopedic,0
+34,Walk-in,93,9,Orthopedic,1
+48,Walk-in,89,3,Laceration,1
+89,Walk-in,78,5,Laceration,1
+1,Walk-in,94,6,Laceration,1
+16,Walk-in,67,4,Laceration,1
+61,Walk-in,80,10,Orthopedic,1
+64,Ambulance,121,8,Chest Pain,0
+63,Ambulance,82,6,Chest Pain,0
+69,Walk-in,71,5,Laceration,1
+22,Walk-in,110,9,Fever,1
+93,Ambulance,110,5,Chest Pain,0
+67,Walk-in,85,4,Fever,1
+76,Walk-in,75,2,Laceration,1
+26,Walk-in,104,6,Fever,1
+16,Walk-in,129,4,Fever,1
+51,Walk-in,76,6,Laceration,1
+86,Walk-in,101,5,Abdominal Pain,1
+57,Walk-in,80,5,Orthopedic,1
+29,Walk-in,77,5,Orthopedic,1
+78,Ambulance,76,2,Abdominal Pain,0
+92,Walk-in,77,6,Abdominal Pain,1
+69,Walk-in,81,9,Orthopedic,1
+47,Walk-in,110,7,Abdominal Pain,1
+94,Walk-in,75,4,Laceration,1
+62,Walk-in,76,7,Orthopedic,1
+69,Walk-in,80,3,Laceration,1
+76,Walk-in,93,2,Abdominal Pain,1
+16,Walk-in,62,6,Laceration,1
+90,Walk-in,85,4,Laceration,1
+90,Ambulance,82,6,Chest Pain,0
+48,Walk-in,108,1,Fever,1
+85,Ambulance,95,9,Chest Pain,0
+39,Walk-in,52,7,Laceration,1
+33,Walk-in,84,5,Laceration,1
+94,Walk-in,84,5,Abdominal Pain,1
+23,Ambulance,73,8,Orthopedic,0
+10,Walk-in,72,7,Abdominal Pain,1
+69,Walk-in,64,4,Abdominal Pain,1
+34,Walk-in,89,7,Orthopedic,1
+52,Walk-in,90,1,Abdominal Pain,1
+10,Walk-in,69,5,Laceration,1
+19,Ambulance,83,9,Chest Pain,0
+58,Ambulance,98,7,Chest Pain,0
+1,Ambulance,136,9,Chest Pain,0
+69,Walk-in,86,2,Abdominal Pain,1
+4,Walk-in,85,4,Fever,1
